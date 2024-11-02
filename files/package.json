@@ -1,0 +1,26 @@
+{
+  "name": "simple-node-application",
+  "version": "1.0.0",
+  "description": "my simple node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khainnn/simple-node-application.git"
+  },
+  "author": "khai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khainnn/simple-node-application/issues"
+  },
+  "homepage": "https://github.com/khainnn/simple-node-application#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "nodejsapp"
+  ]
+}
